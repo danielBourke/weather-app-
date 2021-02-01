@@ -23,7 +23,7 @@ const HeaderContent = ({ selectedWeather }) => {
     return (
       <HeaderItemWrapper>
         <HeaderInfoSection>
-          <h1>Enter postcode in search box to find out weather</h1>
+          <h1>Enter postcode in search box to find out the weather in your area.</h1>
         </HeaderInfoSection>
       </HeaderItemWrapper>
     );
