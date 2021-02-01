@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "A Million Ads Frontend Tech Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "api": "json-server --watch db.json --port 3030"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMA-engineering/frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMA-engineering/frontend/issues"
+  },
+  "homepage": "https://github.com/AMA-engineering/frontend#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "json-server": "^0.16.2",
+    "react-ionicons": "^4.0.3",
+    "styled-components": "^5.2.1"
+  }
+}
